@@ -72,4 +72,5 @@ yarn-error.log
 .yarn-integrity
 .Rproj.user
 
+# RStudio R history file
 .Rhistory
