@@ -1,15 +1,15 @@
 {
     "courseId": "course-starter-r",
-    "title": "My cool online course",
+    "title": "dlookr online course",
     "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-r.netlify.com",
-    "twitter": "spacy_io",
+    "description": "이 과정은 R 데이터 분석 과정에서의 데이터의 진단, 탐색적 데이터 분석, 데이터 변환을 수행하는 방법에 대한 무료, 오픈소스 과정입니다. dlookr 패키지를 사용하여 모델 적합 전 단계의 과정에서의 테크닉을 연습합니다. 이네스 몬타니(Ines Montani)는 이 과정을 실행하는 웹 프레임워크를 설계했습니다. 이 과정은 이네스의 프레임워크 기반에서 동작합니다. 이네스에게도 감사의 인사를 전합니다.이 과정을 개선하는 방법에 대한 여러분의 기여와 의견을 환영합니다. 수정하거나 개선이 필요한 이슈를 찾으면 풀 리퀘스트를 제출하세요.",
+    "bio": "저는 유충현입니다. Tidiverse Korea에서 활동하는 데이터 과학자로 한화생명 Data Analytics 노드에서 근무하고 있습니다. dlookr 패키지의 개발자이기도 합니다. R과 데이터 분석 교육 컨텐츠 개발에 관심이 많은, R과 데이터를 사랑하는 R 유저입니다.",
+    "siteUrl": "https://course-starter-dlookr.netlify.com",
+    "twitter": "bdboy01",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
     "juniper": {
-        "repo": "ines/course-starter-r",
+        "repo": "choonghyunryu/course-starter-dlookr",
         "branch": "binder",
         "lang": "r",
         "kernelType": "ir",
@@ -17,9 +17,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
+        { "text": "Website", "url": "https://choonghyunryu.github.io/" },
+        { "text": "Source", "url": "https://github.com/choonghyunryu/course-starter-dlookr" },
         { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
     ],
-    "theme": "#de7878"
+    "theme": "#0072bc"
 }
