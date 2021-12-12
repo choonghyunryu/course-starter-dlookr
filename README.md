@@ -14,6 +14,7 @@ The interactive course site is built on the amazing framework created by [Ines M
 [Gatsby](http://gatsbyjs.org/) and the back-end code execution uses [Binder](https://mybinder.org).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/choonghyunryu/course-starter-dlookr/master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d47e6b80-e1a0-42c6-9633-8aa5d6d11ab2/deploy-status)](https://app.netlify.com/sites/course-starter-dlookr/deploys)
 
 To learn more about building a course on this framework, see Ines's starter repos for making courses in [Python](https://github.com/ines/course-starter-python) and [R](https://github.com/ines/course-starter-r), and her explanation of how the framework works at [the original course repo](https://github.com/ines/spacy-course#-faq). 
 

@@ -3,7 +3,7 @@
     "private": true,
     "description": "Starter package to build interactive R courses",
     "version": "0.0.1",
-    "author": "Ines Montani <ines@explosion.ai>",
+    "author": "Choonghyun Ryu <choonghyun.ryu@gmail.com>",
     "dependencies": {
         "@illinois/react-use-local-storage": "^1.1.0",
         "@jupyterlab/outputarea": "^0.19.1",
