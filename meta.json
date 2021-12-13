@@ -12,7 +12,7 @@
         "repo": "choonghyunryu/course-starter-dlookr",
         "branch": "binder",
         "lang": "r",
-        "kernelType": "r",
+        "kernelType": "ir",
         "debug": false
     },
     "showProfileImage": true,
